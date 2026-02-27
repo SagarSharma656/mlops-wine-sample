@@ -1,0 +1,4 @@
+[core]
+    remote = winesampleremote
+['remote "winesampleremote"']
+    url = s3://sagar-mlops-dvc-bucket/wine-sample
